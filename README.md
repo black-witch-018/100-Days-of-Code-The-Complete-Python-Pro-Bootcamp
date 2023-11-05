@@ -5,3 +5,7 @@ I just started learning python from *Angela Yu's* course *100 Days of Code:The C
 If you liked my work, don't forget to give it a star.
 
 <img src="https://github.com/jaagrit13/100-Days-of-Code/blob/main/logo.jpg">
+
+---
+## <a href = "https://github.com/jaagrit13/100-Days-of-Code/tree/main/Day%201">Day 1 - Working with Variables in Python to Manage Data</a>
+## <a href = "https://github.com/jaagrit13/100-Days-of-Code/tree/main/Day%202">Day 2 - Understanding Data Types and How to Manipulate Strings</a>
