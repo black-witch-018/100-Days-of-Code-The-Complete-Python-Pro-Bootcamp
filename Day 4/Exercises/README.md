@@ -26,7 +26,7 @@ Tails
 
 ---
 
-> # Who's Paying
+> # Exercise 4.2 - Who's Paying
 
 ## Instructions
 
@@ -59,7 +59,7 @@ Michael is going to buy the meal today!
 
 ---
 
-> # Treasure Map
+> # Exercise 4.3 - Treasure Map
 
 ## Instructions
 
