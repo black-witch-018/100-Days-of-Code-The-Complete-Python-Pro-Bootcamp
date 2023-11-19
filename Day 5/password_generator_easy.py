@@ -22,6 +22,3 @@ for i in range(nr_numbers):
     eazy_password += random.choice(numbers)
 
 print(f"Here is your password: {eazy_password}")
-
-#Hard Level - Order of characters randomised:
-#e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
