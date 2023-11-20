@@ -11,3 +11,4 @@ If you liked my work, don't forget to give it a star.
 ## <a href = "https://github.com/jaagrit13/100-Days-of-Code/tree/main/Day%202">Day 2 - Understanding Data Types and How to Manipulate Strings</a>
 ## <a href = "https://github.com/jaagrit13/100-Days-of-Code/tree/main/Day%203">Day 3 - Control Flow and Logical Operators</a>
 ## <a href = "https://github.com/jaagrit13/100-Days-of-Code/tree/main/Day%204">Day 4 - Randomisation and Python Lists</a>
+## <a href = "https://github.com/jaagrit13/100-Days-of-Code/tree/main/Day%205">Day 5 - Python Loops</a>
