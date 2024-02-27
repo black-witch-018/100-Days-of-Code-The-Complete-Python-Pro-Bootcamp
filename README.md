@@ -1,4 +1,5 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp
+<img src="https://github.com/black-witch-018/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/logo.jpg" width="100%">
 
 This repository contains my progress and projects for the "100 Days of Code: The Complete Python Pro Bootcamp" course by Angela Yu on Udemy.
 
