@@ -7,11 +7,17 @@ This repository contains my progress and projects for the "100 Days of Code: The
 The "100 Days of Code: The Complete Python Pro Bootcamp" is designed to help beginners learn Python programming through daily exercises and projects over the span of 100 days. Angela Yu, the instructor, provides comprehensive tutorials and challenges to build a strong foundation in Python.
 
 ## Course Contents
-
+### 🔰 Beginner
+1. <a href = "https://github.com/black-witch-018/100-Days-of-Code/tree/main/Day%201">Day 1 - Working with Variables in Python to Manage Data</a>
+2. <a href = "https://github.com/black-witch-018/100-Days-of-Code/tree/main/Day%202">Day 2 - Understanding Data Types and How to Manipulate Strings</a>
+3. <a href = "https://github.com/black-witch-018/100-Days-of-Code/tree/main/Day%203">Day 3 - Control Flow and Logical Operators</a>
+4. <a href = "https://github.com/black-witch-018/100-Days-of-Code/tree/main/Day%204">Day 4 - Randomisation and Python Lists</a>
+5. <a href = "https://github.com/black-witch-018/100-Days-of-Code/tree/main/Day%205">Day 5 - Python Loops</a>
+<!--
 - **Day 1-15:** Basics of Python programming, including variables, data types, control flow, and functions.
 - **Day 16-30:** Intermediate concepts such as list comprehension, dictionaries, and object-oriented programming (OOP).
 - **Day 31-50:** Advanced topics like file handling, decorators, and Python libraries such as Pandas and NumPy.
-- **Day 51-100:** Daily projects covering web development with Flask, data visualization with Matplotlib, and more.
+- **Day 51-100:** Daily projects covering web development with Flask, data visualization with Matplotlib, and more. -->
 
 ## Repository Structure
 
