@@ -1,14 +1,38 @@
-# 100-Days-of-Code
-## Hey There 👋
-I just started learning python from ***Angela Yu's*** course ***100 Days of Code:The Complete Python Pro Bootcamp***. I will try to learn and update this repo everyday. I will be sharing the solutions of the ***excercises, quiz and projects*** of each day in this repository. If you wanna join, I am open to collaborate and complete this journey with more fellows.
+# 100 Days of Code: The Complete Python Pro Bootcamp
 
-If you liked my work, don't forget to give it a star.
+This repository contains my progress and projects for the "100 Days of Code: The Complete Python Pro Bootcamp" course by Angela Yu on Udemy.
 
-<img src="https://github.com/jaagrit13/100-Days-of-Code/blob/main/logo.jpg">
+## About the Course
 
----
-## <a href = "https://github.com/black-witch-018/100-Days-of-Code/tree/main/Day%201">Day 1 - Working with Variables in Python to Manage Data</a>
-## <a href = "https://github.com/black-witch-018/100-Days-of-Code/tree/main/Day%202">Day 2 - Understanding Data Types and How to Manipulate Strings</a>
-## <a href = "https://github.com/black-witch-018/100-Days-of-Code/tree/main/Day%203">Day 3 - Control Flow and Logical Operators</a>
-## <a href = "https://github.com/black-witch-018/100-Days-of-Code/tree/main/Day%204">Day 4 - Randomisation and Python Lists</a>
-## <a href = "https://github.com/black-witch-018/100-Days-of-Code/tree/main/Day%205">Day 5 - Python Loops</a>
+The "100 Days of Code: The Complete Python Pro Bootcamp" is designed to help beginners learn Python programming through daily exercises and projects over the span of 100 days. Angela Yu, the instructor, provides comprehensive tutorials and challenges to build a strong foundation in Python.
+
+## Course Contents
+
+- **Day 1-15:** Basics of Python programming, including variables, data types, control flow, and functions.
+- **Day 16-30:** Intermediate concepts such as list comprehension, dictionaries, and object-oriented programming (OOP).
+- **Day 31-50:** Advanced topics like file handling, decorators, and Python libraries such as Pandas and NumPy.
+- **Day 51-100:** Daily projects covering web development with Flask, data visualization with Matplotlib, and more.
+
+## Repository Structure
+
+- Each day's code and projects are organized into separate directories.
+- Daily challenges and exercises are documented with comments for clarity.
+- Projects are named descriptively to indicate their purpose and functionality.
+
+## How to Use
+
+1. Clone this repository to your local machine using `git clone`.
+2. Navigate to the specific day's directory to access the code and project files.
+3. Run the Python scripts or projects using your preferred Python interpreter.
+4. Feel free to modify, experiment, and expand upon the provided code to enhance your learning experience.
+
+## Acknowledgments
+
+- Special thanks to Angela Yu for creating the "100 Days of Code: The Complete Python Pro Bootcamp" course and providing valuable resources and guidance.
+- Appreciation to fellow learners and contributors for sharing insights, tips, and support throughout the journey.
+
+## Connect with Me
+
+- If you have any questions, suggestions, or just want to connect, feel free to reach out to me via [email](mailto:jaagritmarya@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jaagrit1305/).
+
+Happy coding! 🚀
